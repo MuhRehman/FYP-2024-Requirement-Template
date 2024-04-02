@@ -1,0 +1,15 @@
+Final deliverable contains following:
+- Complete Application
+- Final Report
+- Final Presentation
+
+The details of each deliverable is already provided in "Details" folder.
+
+
+To submit final deliverable you shall put the above mentioned things inside
+a single folder then compress it with RAR or ZIP format, and submit the compressed file
+on VULMS within due date. Remember there is no extended day in any project deliverable.
+Usually VULMS accepted any file less than 100 MB, but if your file is large
+or you are having any error on VULMS on uploading the file, then you shall upload your
+final deliverable on Google Drive or Dropbox and send the sharing link to your
+project supervisor, within due date. No submission will be considered after the due date.
